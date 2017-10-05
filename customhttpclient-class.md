@@ -36,7 +36,7 @@ The source code is the following one:
 
 `}`
 
-`public CustomHttpClient(bool useSSL , string certificatePath)`
+`public CustomHttpClient(bool useSSL)`
 
 `{`
 
