@@ -1,3 +1,11 @@
-# My Awesome Book
+# Use SSL and certificate authentication with .NET HttpClient 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This document describe how to implements .NET code to do the following task:
+
+* Use SLL communication
+* Use protocols like TLS1.2
+* Use client Certificate
+* Validate client and server certificates
+
+
+
